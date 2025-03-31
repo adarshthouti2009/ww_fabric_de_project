@@ -1,4 +1,4 @@
-# World Wide Importers Microsoft Fabric Data Engineering & Analytics Solution Project
+# World Wide Importers Microsoft Fabric Project
 
 # Project Overview
 
